@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name onion2s)(type KiCad)(uri ${KIPRJMOD}/onion2s.pretty)(options "")(descr ""))
+)
